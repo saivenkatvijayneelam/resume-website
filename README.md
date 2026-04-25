@@ -21,25 +21,14 @@ A modern, animated resume website built with HTML, CSS, and JavaScript.
 
 ## Deployment
 
-### Option 1: Netlify Drop (Easiest)
 
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
-2. Drag and drop the `resume-website` folder onto the page
-3. Your site will be live instantly with a URL like `your-site-name.netlify.app`
-
-### Option 2: GitHub Pages
+ GitHub Pages
 
 1. Create a new GitHub repository
 2. Upload all files from the `resume-website` folder
 3. Go to repository Settings > Pages
 4. Select `main` branch as source
 5. Your site will be available at `your-username.github.io/repository-name`
-
-### Option 3: Vercel
-
-1. Install Vercel CLI: `npm i -g vercel` (requires npm)
-2. Run `vercel` in the `resume-website` directory
-3. Follow the prompts to deploy
 
 ## Customization
 
